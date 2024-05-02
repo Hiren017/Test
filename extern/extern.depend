@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1689762970 source:d:\code blocks\extern\main.c
+	"main.h"
+
+1689762970 d:\code blocks\extern\main.h
+	<stdio.h>
+
+1689762970 source:d:\code blocks\extern\otherfile.c
+	"main.h"
+
